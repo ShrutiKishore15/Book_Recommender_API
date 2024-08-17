@@ -1,0 +1,5 @@
+fastapi
+uvicorn
+pickle4
+numpy
+pandas
